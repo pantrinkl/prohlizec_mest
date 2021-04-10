@@ -1,0 +1,88 @@
+{
+  "polozky": [
+    {
+      "id": "Kraj/19",
+      "kod": "19",
+      "nazev": "Hlavní město Praha",
+      "kodNuts3": "CZ010"
+    },
+    {
+      "id": "Kraj/27",
+      "kod": "27",
+      "nazev": "Středočeský kraj",
+      "kodNuts3": "CZ020"
+    },
+    {
+      "id": "Kraj/35",
+      "kod": "35",
+      "nazev": "Jihočeský kraj",
+      "kodNuts3": "CZ031"
+    },
+    {
+      "id": "Kraj/43",
+      "kod": "43",
+      "nazev": "Plzeňský kraj",
+      "kodNuts3": "CZ032"
+    },
+    {
+      "id": "Kraj/51",
+      "kod": "51",
+      "nazev": "Karlovarský kraj",
+      "kodNuts3": "CZ041"
+    },
+    {
+      "id": "Kraj/60",
+      "kod": "60",
+      "nazev": "Ústecký kraj",
+      "kodNuts3": "CZ042"
+    },
+    {
+      "id": "Kraj/78",
+      "kod": "78",
+      "nazev": "Liberecký kraj",
+      "kodNuts3": "CZ051"
+    },
+    {
+      "id": "Kraj/86",
+      "kod": "86",
+      "nazev": "Královéhradecký kraj",
+      "kodNuts3": "CZ052"
+    },
+    {
+      "id": "Kraj/94",
+      "kod": "94",
+      "nazev": "Pardubický kraj",
+      "kodNuts3": "CZ053"
+    },
+    {
+      "id": "Kraj/108",
+      "kod": "108",
+      "nazev": "Kraj Vysočina",
+      "kodNuts3": "CZ063"
+    },
+    {
+      "id": "Kraj/116",
+      "kod": "116",
+      "nazev": "Jihomoravský kraj",
+      "kodNuts3": "CZ064"
+    },
+    {
+      "id": "Kraj/124",
+      "kod": "124",
+      "nazev": "Olomoucký kraj",
+      "kodNuts3": "CZ071"
+    },
+    {
+      "id": "Kraj/132",
+      "kod": "132",
+      "nazev": "Moravskoslezský kraj",
+      "kodNuts3": "CZ080"
+    },
+    {
+      "id": "Kraj/141",
+      "kod": "141",
+      "nazev": "Zlínský kraj",
+      "kodNuts3": "CZ072"
+    }
+  ]
+}

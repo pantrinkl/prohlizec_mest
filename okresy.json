@@ -1,0 +1,543 @@
+{
+  "polozky": [
+    {
+      "id": "Okres/3100",
+      "kod": "3100",
+      "nazev": "Hlavní město Praha",
+      "kodLau": "CZ0100",
+      "kraj": "Kraj/19"
+    },
+    {
+      "id": "Okres/3201",
+      "kod": "3201",
+      "nazev": "Benešov",
+      "kodLau": "CZ0201",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3202",
+      "kod": "3202",
+      "nazev": "Beroun",
+      "kodLau": "CZ0202",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3203",
+      "kod": "3203",
+      "nazev": "Kladno",
+      "kodLau": "CZ0203",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3204",
+      "kod": "3204",
+      "nazev": "Kolín",
+      "kodLau": "CZ0204",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3205",
+      "kod": "3205",
+      "nazev": "Kutná Hora",
+      "kodLau": "CZ0205",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3206",
+      "kod": "3206",
+      "nazev": "Mělník",
+      "kodLau": "CZ0206",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3207",
+      "kod": "3207",
+      "nazev": "Mladá Boleslav",
+      "kodLau": "CZ0207",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3208",
+      "kod": "3208",
+      "nazev": "Nymburk",
+      "kodLau": "CZ0208",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3209",
+      "kod": "3209",
+      "nazev": "Praha-východ",
+      "kodLau": "CZ0209",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3210",
+      "kod": "3210",
+      "nazev": "Praha-západ",
+      "kodLau": "CZ020A",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3211",
+      "kod": "3211",
+      "nazev": "Příbram",
+      "kodLau": "CZ020B",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3212",
+      "kod": "3212",
+      "nazev": "Rakovník",
+      "kodLau": "CZ020C",
+      "kraj": "Kraj/27"
+    },
+    {
+      "id": "Okres/3301",
+      "kod": "3301",
+      "nazev": "České Budějovice",
+      "kodLau": "CZ0311",
+      "kraj": "Kraj/35"
+    },
+    {
+      "id": "Okres/3302",
+      "kod": "3302",
+      "nazev": "Český Krumlov",
+      "kodLau": "CZ0312",
+      "kraj": "Kraj/35"
+    },
+    {
+      "id": "Okres/3303",
+      "kod": "3303",
+      "nazev": "Jindřichův Hradec",
+      "kodLau": "CZ0313",
+      "kraj": "Kraj/35"
+    },
+    {
+      "id": "Okres/3304",
+      "kod": "3304",
+      "nazev": "Pelhřimov",
+      "kodLau": "CZ0633",
+      "kraj": "Kraj/108"
+    },
+    {
+      "id": "Okres/3305",
+      "kod": "3305",
+      "nazev": "Písek",
+      "kodLau": "CZ0314",
+      "kraj": "Kraj/35"
+    },
+    {
+      "id": "Okres/3306",
+      "kod": "3306",
+      "nazev": "Prachatice",
+      "kodLau": "CZ0315",
+      "kraj": "Kraj/35"
+    },
+    {
+      "id": "Okres/3307",
+      "kod": "3307",
+      "nazev": "Strakonice",
+      "kodLau": "CZ0316",
+      "kraj": "Kraj/35"
+    },
+    {
+      "id": "Okres/3308",
+      "kod": "3308",
+      "nazev": "Tábor",
+      "kodLau": "CZ0317",
+      "kraj": "Kraj/35"
+    },
+    {
+      "id": "Okres/3401",
+      "kod": "3401",
+      "nazev": "Domažlice",
+      "kodLau": "CZ0321",
+      "kraj": "Kraj/43"
+    },
+    {
+      "id": "Okres/3402",
+      "kod": "3402",
+      "nazev": "Cheb",
+      "kodLau": "CZ0411",
+      "kraj": "Kraj/51"
+    },
+    {
+      "id": "Okres/3403",
+      "kod": "3403",
+      "nazev": "Karlovy Vary",
+      "kodLau": "CZ0412",
+      "kraj": "Kraj/51"
+    },
+    {
+      "id": "Okres/3404",
+      "kod": "3404",
+      "nazev": "Klatovy",
+      "kodLau": "CZ0322",
+      "kraj": "Kraj/43"
+    },
+    {
+      "id": "Okres/3405",
+      "kod": "3405",
+      "nazev": "Plzeň-město",
+      "kodLau": "CZ0323",
+      "kraj": "Kraj/43"
+    },
+    {
+      "id": "Okres/3406",
+      "kod": "3406",
+      "nazev": "Plzeň-jih",
+      "kodLau": "CZ0324",
+      "kraj": "Kraj/43"
+    },
+    {
+      "id": "Okres/3407",
+      "kod": "3407",
+      "nazev": "Plzeň-sever",
+      "kodLau": "CZ0325",
+      "kraj": "Kraj/43"
+    },
+    {
+      "id": "Okres/3408",
+      "kod": "3408",
+      "nazev": "Rokycany",
+      "kodLau": "CZ0326",
+      "kraj": "Kraj/43"
+    },
+    {
+      "id": "Okres/3409",
+      "kod": "3409",
+      "nazev": "Sokolov",
+      "kodLau": "CZ0413",
+      "kraj": "Kraj/51"
+    },
+    {
+      "id": "Okres/3410",
+      "kod": "3410",
+      "nazev": "Tachov",
+      "kodLau": "CZ0327",
+      "kraj": "Kraj/43"
+    },
+    {
+      "id": "Okres/3501",
+      "kod": "3501",
+      "nazev": "Česká Lípa",
+      "kodLau": "CZ0511",
+      "kraj": "Kraj/78"
+    },
+    {
+      "id": "Okres/3502",
+      "kod": "3502",
+      "nazev": "Děčín",
+      "kodLau": "CZ0421",
+      "kraj": "Kraj/60"
+    },
+    {
+      "id": "Okres/3503",
+      "kod": "3503",
+      "nazev": "Chomutov",
+      "kodLau": "CZ0422",
+      "kraj": "Kraj/60"
+    },
+    {
+      "id": "Okres/3504",
+      "kod": "3504",
+      "nazev": "Jablonec nad Nisou",
+      "kodLau": "CZ0512",
+      "kraj": "Kraj/78"
+    },
+    {
+      "id": "Okres/3505",
+      "kod": "3505",
+      "nazev": "Liberec",
+      "kodLau": "CZ0513",
+      "kraj": "Kraj/78"
+    },
+    {
+      "id": "Okres/3506",
+      "kod": "3506",
+      "nazev": "Litoměřice",
+      "kodLau": "CZ0423",
+      "kraj": "Kraj/60"
+    },
+    {
+      "id": "Okres/3507",
+      "kod": "3507",
+      "nazev": "Louny",
+      "kodLau": "CZ0424",
+      "kraj": "Kraj/60"
+    },
+    {
+      "id": "Okres/3508",
+      "kod": "3508",
+      "nazev": "Most",
+      "kodLau": "CZ0425",
+      "kraj": "Kraj/60"
+    },
+    {
+      "id": "Okres/3509",
+      "kod": "3509",
+      "nazev": "Teplice",
+      "kodLau": "CZ0426",
+      "kraj": "Kraj/60"
+    },
+    {
+      "id": "Okres/3510",
+      "kod": "3510",
+      "nazev": "Ústí nad Labem",
+      "kodLau": "CZ0427",
+      "kraj": "Kraj/60"
+    },
+    {
+      "id": "Okres/3601",
+      "kod": "3601",
+      "nazev": "Havlíčkův Brod",
+      "kodLau": "CZ0631",
+      "kraj": "Kraj/108"
+    },
+    {
+      "id": "Okres/3602",
+      "kod": "3602",
+      "nazev": "Hradec Králové",
+      "kodLau": "CZ0521",
+      "kraj": "Kraj/86"
+    },
+    {
+      "id": "Okres/3603",
+      "kod": "3603",
+      "nazev": "Chrudim",
+      "kodLau": "CZ0531",
+      "kraj": "Kraj/94"
+    },
+    {
+      "id": "Okres/3604",
+      "kod": "3604",
+      "nazev": "Jičín",
+      "kodLau": "CZ0522",
+      "kraj": "Kraj/86"
+    },
+    {
+      "id": "Okres/3605",
+      "kod": "3605",
+      "nazev": "Náchod",
+      "kodLau": "CZ0523",
+      "kraj": "Kraj/86"
+    },
+    {
+      "id": "Okres/3606",
+      "kod": "3606",
+      "nazev": "Pardubice",
+      "kodLau": "CZ0532",
+      "kraj": "Kraj/94"
+    },
+    {
+      "id": "Okres/3607",
+      "kod": "3607",
+      "nazev": "Rychnov nad Kněžnou",
+      "kodLau": "CZ0524",
+      "kraj": "Kraj/86"
+    },
+    {
+      "id": "Okres/3608",
+      "kod": "3608",
+      "nazev": "Semily",
+      "kodLau": "CZ0514",
+      "kraj": "Kraj/78"
+    },
+    {
+      "id": "Okres/3609",
+      "kod": "3609",
+      "nazev": "Svitavy",
+      "kodLau": "CZ0533",
+      "kraj": "Kraj/94"
+    },
+    {
+      "id": "Okres/3610",
+      "kod": "3610",
+      "nazev": "Trutnov",
+      "kodLau": "CZ0525",
+      "kraj": "Kraj/86"
+    },
+    {
+      "id": "Okres/3611",
+      "kod": "3611",
+      "nazev": "Ústí nad Orlicí",
+      "kodLau": "CZ0534",
+      "kraj": "Kraj/94"
+    },
+    {
+      "id": "Okres/3701",
+      "kod": "3701",
+      "nazev": "Blansko",
+      "kodLau": "CZ0641",
+      "kraj": "Kraj/116"
+    },
+    {
+      "id": "Okres/3702",
+      "kod": "3702",
+      "nazev": "Brno-město",
+      "kodLau": "CZ0642",
+      "kraj": "Kraj/116"
+    },
+    {
+      "id": "Okres/3703",
+      "kod": "3703",
+      "nazev": "Brno-venkov",
+      "kodLau": "CZ0643",
+      "kraj": "Kraj/116"
+    },
+    {
+      "id": "Okres/3704",
+      "kod": "3704",
+      "nazev": "Břeclav",
+      "kodLau": "CZ0644",
+      "kraj": "Kraj/116"
+    },
+    {
+      "id": "Okres/3705",
+      "kod": "3705",
+      "nazev": "Zlín",
+      "kodLau": "CZ0724",
+      "kraj": "Kraj/141"
+    },
+    {
+      "id": "Okres/3706",
+      "kod": "3706",
+      "nazev": "Hodonín",
+      "kodLau": "CZ0645",
+      "kraj": "Kraj/116"
+    },
+    {
+      "id": "Okres/3707",
+      "kod": "3707",
+      "nazev": "Jihlava",
+      "kodLau": "CZ0632",
+      "kraj": "Kraj/108"
+    },
+    {
+      "id": "Okres/3708",
+      "kod": "3708",
+      "nazev": "Kroměříž",
+      "kodLau": "CZ0721",
+      "kraj": "Kraj/141"
+    },
+    {
+      "id": "Okres/3709",
+      "kod": "3709",
+      "nazev": "Prostějov",
+      "kodLau": "CZ0713",
+      "kraj": "Kraj/124"
+    },
+    {
+      "id": "Okres/3710",
+      "kod": "3710",
+      "nazev": "Třebíč",
+      "kodLau": "CZ0634",
+      "kraj": "Kraj/108"
+    },
+    {
+      "id": "Okres/3711",
+      "kod": "3711",
+      "nazev": "Uherské Hradiště",
+      "kodLau": "CZ0722",
+      "kraj": "Kraj/141"
+    },
+    {
+      "id": "Okres/3712",
+      "kod": "3712",
+      "nazev": "Vyškov",
+      "kodLau": "CZ0646",
+      "kraj": "Kraj/116"
+    },
+    {
+      "id": "Okres/3713",
+      "kod": "3713",
+      "nazev": "Znojmo",
+      "kodLau": "CZ0647",
+      "kraj": "Kraj/116"
+    },
+    {
+      "id": "Okres/3714",
+      "kod": "3714",
+      "nazev": "Žďár nad Sázavou",
+      "kodLau": "CZ0635",
+      "kraj": "Kraj/108"
+    },
+    {
+      "id": "Okres/3801",
+      "kod": "3801",
+      "nazev": "Bruntál",
+      "kodLau": "CZ0801",
+      "kraj": "Kraj/132"
+    },
+    {
+      "id": "Okres/3802",
+      "kod": "3802",
+      "nazev": "Frýdek-Místek",
+      "kodLau": "CZ0802",
+      "kraj": "Kraj/132"
+    },
+    {
+      "id": "Okres/3803",
+      "kod": "3803",
+      "nazev": "Karviná",
+      "kodLau": "CZ0803",
+      "kraj": "Kraj/132"
+    },
+    {
+      "id": "Okres/3804",
+      "kod": "3804",
+      "nazev": "Nový Jičín",
+      "kodLau": "CZ0804",
+      "kraj": "Kraj/132"
+    },
+    {
+      "id": "Okres/3805",
+      "kod": "3805",
+      "nazev": "Olomouc",
+      "kodLau": "CZ0712",
+      "kraj": "Kraj/124"
+    },
+    {
+      "id": "Okres/3806",
+      "kod": "3806",
+      "nazev": "Opava",
+      "kodLau": "CZ0805",
+      "kraj": "Kraj/132"
+    },
+    {
+      "id": "Okres/3807",
+      "kod": "3807",
+      "nazev": "Ostrava-město",
+      "kodLau": "CZ0806",
+      "kraj": "Kraj/132"
+    },
+    {
+      "id": "Okres/3808",
+      "kod": "3808",
+      "nazev": "Přerov",
+      "kodLau": "CZ0714",
+      "kraj": "Kraj/124"
+    },
+    {
+      "id": "Okres/3809",
+      "kod": "3809",
+      "nazev": "Šumperk",
+      "kodLau": "CZ0715",
+      "kraj": "Kraj/124"
+    },
+    {
+      "id": "Okres/3810",
+      "kod": "3810",
+      "nazev": "Vsetín",
+      "kodLau": "CZ0723",
+      "kraj": "Kraj/141"
+    },
+    {
+      "id": "Okres/3811",
+      "kod": "3811",
+      "nazev": "Jeseník",
+      "kodLau": "CZ0711",
+      "kraj": "Kraj/124"
+    }
+  ]
+}
