@@ -20,4 +20,4 @@ Ve složce, kde je uložen soubor `mesta.py`, je nutné mít další vstupní so
 
 Program po spuštění zobrazí seznam všech dostupných měst a obcí v ČR (seznam je neuplný). Po vybrání sídla je k němu doplněna jeho rozloha a počet obyvatel. Na vybrané sídlo je přiblíženo v mapové aplikaci.
 
-Dále lze vyfiltrovat sídla dle různých parametrů. V nabídce lze vybrat mezi zobrazením měst nebo obcí. Lze nastavit v jakém rozsahu počtu obyvatel mají být zobrazená sídla. Ze seznamu krajů lze vybrat jeden, ze kterého bude vybrán požadovaný okres. Z okresů pak lze vybrat jeden, ze kterého budou sídla vybrána.
+Dále lze vytřídit sídla dle různých parametrů. V nabídce lze vybrat mezi zobrazením měst nebo obcí. Lze nastavit v jakém rozsahu počtu obyvatel mají být zobrazená sídla. Ze seznamu krajů lze vybrat jeden, jehož okresy budou následně zobrazeny. Z nich lze vybrat jeden pro vytřídění sídel.
